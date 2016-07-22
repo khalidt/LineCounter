@@ -1,0 +1,6 @@
+Line counter v1.0
+
+.java
+.cpp
+.xhtml
+.sql
