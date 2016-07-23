@@ -4,6 +4,8 @@
 
 It’s NetBeans Plugin tool that counts the number of lines in the source files. it counts lines in all source files that are in a folder.
 
+# Requirement
+NetBeans IDE 8.1
 
 # Features:
 1. It counts all source files that are supported in a folder.
