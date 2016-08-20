@@ -1,8 +1,0 @@
-Line counter v1.0
-
-.java
-.cpp
-.c
-.xhtml
-.sql
-.php
