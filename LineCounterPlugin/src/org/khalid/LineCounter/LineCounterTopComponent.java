@@ -1,6 +1,6 @@
 /*
  * Line Counter
- * @version: 1.0
+ * @version: 2.0
  * @date: 7/20/2016
  * @author KhalidT
  * @email: Khalidt@mail.com
